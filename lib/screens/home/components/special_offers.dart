@@ -26,7 +26,7 @@ class SpecialOffers extends StatelessWidget {
               SpecialOfferCard(
                 image: "assets/images/Image Banner 2.png",
                 category: "Computer",
-                numOfBrands: 18,
+                numOfBrands: 10,
                 press: () {
                   Navigator.pushNamed(context, ProductsScreen.routeName);
                 },
@@ -34,7 +34,7 @@ class SpecialOffers extends StatelessWidget {
               SpecialOfferCard(
                 image: "assets/images/Image Banner 3.png",
                 category: "Accessories",
-                numOfBrands: 24,
+                numOfBrands: 16,
                 press: () {
                   Navigator.pushNamed(context, ProductsScreen.routeName);
                 },

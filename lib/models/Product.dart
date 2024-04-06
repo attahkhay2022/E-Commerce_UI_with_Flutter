@@ -129,7 +129,7 @@ List<Product> demoProducts = [
     ],
     title: "Best Monitor Deals: Find Big Savings From 27-Inch Fhd To, 58% OFF",
     price: 300,
-    description: description,
+    description: description2,
     rating: 4.1,
     isPopular: true,
   ),
@@ -154,3 +154,6 @@ List<Product> demoProducts = [
 
 const String description =
     "Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing …";
+
+const String description2 =
+    "Investing in the right computer monitor can help your day-to-day productivity soar and enhance your overall viewing experience. You can mirror or extend your laptop screen, build a dual monitor setup or even a multi-monitor setup for gaming.";
