@@ -33,7 +33,7 @@ class OtpScreen extends StatelessWidget {
                     const Text("This code will expired in "),
                     TweenAnimationBuilder(
                       tween: Tween(begin: 30.0, end: 0.0),
-                      duration: const Duration(seconds: 30),
+                      duration: const Duration(seconds: 50),
                       builder: (_, dynamic value, child) => Text(
                         "00:${value.toInt()}",
                         style: const TextStyle(color: kPrimaryColor),
