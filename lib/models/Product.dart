@@ -60,7 +60,7 @@ List<Product> demoProducts = [
     ],
     title: "Lexon tech 2.4G rechargeable wireless keyboard and mouse set",
     price: 300,
-    description: description,
+    description: description3,
     rating: 4.1,
     isPopular: true,
   ),
@@ -77,7 +77,7 @@ List<Product> demoProducts = [
     ],
     title: "HP Laptop 14-ep0001nia ",
     price: 3600.55,
-    description: description,
+    description: description4,
     rating: 4.1,
     isFavourite: true,
     isPopular: true,
@@ -95,7 +95,7 @@ List<Product> demoProducts = [
     ],
     title: "Logitech Head",
     price: 80.20,
-    description: description,
+    description: description5,
     rating: 4.1,
     isFavourite: true,
   ),
@@ -111,7 +111,7 @@ List<Product> demoProducts = [
     title:
         "60W Portable Bluetooth Speaker with Subwoofer Heavy Bass, Wireless Speakers Bluetooth 5.0",
     price: 104.99,
-    description: description,
+    description: description7,
     rating: 4.8,
     isFavourite: true,
     isPopular: true,
@@ -146,7 +146,7 @@ List<Product> demoProducts = [
     ],
     title: "RT-AX82U WiFi Routers ASUS USA",
     price: 800.20,
-    description: description,
+    description: description6,
     rating: 4.1,
     isFavourite: true,
   ),
@@ -157,3 +157,13 @@ const String description =
 
 const String description2 =
     "Investing in the right computer monitor can help your day-to-day productivity soar and enhance your overall viewing experience. You can mirror or extend your laptop screen, build a dual monitor setup or even a multi-monitor setup for gaming.";
+const String description3 =
+    "The keyboard can reach a wireless remote control within 10 metres. Free and unbound, keyboard and mouse share a smart receiver, plug and play, convenient and fast. Mechanical feel, suitable for games or office or home. The mouse uses a professional esports game engine, the transmission is stable, the analysis is accurate and the game is more sensational.";
+const String description4 =
+    "It has an 11th Gen Core i3 processor (yes, it's an older chip, but that's why it's so cheap — such is life), 8GB of RAM, and 256GB of storage.";
+const String description5 =
+    "Immersive sound, crystal-clear mics, customizable EQ and optional 7.1 surround. Everything you need to get into the game and perform with the added benefit of precise audio.";
+const String description6 =
+    "New-generation WiFi 6 - Enjoy ultrafast speeds up to 5400 Mbps with the latest WiFi 6 (802.11ax) and 160MHz channels";
+const String description7 = 
+    "Bluetooth Speaker with Double Subwoofer Heavy Bass, Bluetooth 5.0 Wireless 100ft Outdoor Speaker, Support FM Radio, LED Colorful Lights, Stereo Sound, for Home, Party, Travel";
