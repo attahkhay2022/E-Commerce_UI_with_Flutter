@@ -43,10 +43,16 @@ Finally, we designed the user profile page.
 Now it contains all the screen, thanks for your love and support 🙏 
 
 ## Photos
-![Preview](/1.png)
-![Preview](2.png)
-![Preview](3.png)
-![Preview](4.png)
-![Preview](5.png)
-![Preview](6.png)
-![Preview](7.png)
+![Preview](/11.png)
+![Preview](22.png)
+![Preview](221.png)
+![Preview](223.png)
+![Preview](331.png)
+![Preview](332.png)
+![Preview](333.png)
+![Preview](441.png)
+![Preview](551.png)
+![Preview](552.png)
+![Preview](553.png)
+![Preview](661.png)
+![Preview](771.png)
